@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/emulefanscom/eMule/releases/download/eMule_v0.60d-community/eMule0.60d_x64_zh.7z",
-            "hash": "d84a1e5ec6e35e05168330c585069ff4d233cc1ba337d398904fad09d495b52a"
+            "hash": "b8bce2876935d38afff48d88d86f8abe64789d3d973910c213c362535f84553a"
         },
         "32bit": {
             "url": "https://github.com/emulefanscom/eMule/releases/download/eMule_v0.60d-community/eMule0.60d_zh.7z",
