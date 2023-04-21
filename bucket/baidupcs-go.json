@@ -23,7 +23,7 @@
         "pcs_config.json",
         "pcs_uploading.json"
     ],
-    "extract_to": "../",
+    "extract_to": "",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
