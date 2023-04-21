@@ -17,11 +17,14 @@
             "hash": "d5fb6304e3669cf6ba336c42d08ae9d268e5fb0fe015072fab9d0f9a1b46cd51"
         }
     },
-    "bin": "baiduPCS-Go.exe",
+    "bin": "BaiduPCS-Go.exe",
     "persist": [
         "pcs_command_history.txt",
         "pcs_config.json",
         "pcs_uploading.json"
+    ],
+    "extract_to": [
+        ""
     ],
     "checkver": "github",
     "autoupdate": {
