@@ -23,9 +23,7 @@
         "pcs_config.json",
         "pcs_uploading.json"
     ],
-    "checkver": {
-        "url": "github"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
