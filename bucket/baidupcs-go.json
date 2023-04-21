@@ -22,9 +22,7 @@
     },
     "bin": "BaiduPCS-Go.exe",
     "persist": [
-        "pcs_command_history.txt",
-        "pcs_config.json",
-        "pcs_uploading.json"
+        ["pcs_command_history.txt", "pcs_config.json", "pcs_uploading.json"]
     ],
     "checkver": "github",
     "autoupdate": {
