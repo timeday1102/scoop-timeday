@@ -29,9 +29,6 @@
         "if (!(Test-Path \"$persist_dir\\pcs_uploading.json\") -or !(Get-Item \"$persist_dir\\pcs_uploading.json\").Length) {",
         "   New-Item \"$persist_dir\\pcs_uploading.json\" -ItemType File -Force | Out-Null"
     ],
-    "persist": [
-        ["pcs_command_history.txt", "pcs_config.json", "pcs_uploading.json"]
-    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
